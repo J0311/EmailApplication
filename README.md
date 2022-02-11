@@ -1,15 +1,17 @@
-#Java Email Application Project
+# Java Email Application Project
 
-##This application will produce the following results for end-user:
+## This application will produce the following results for end-user:
 
-###-Generate an email with the following syntax: firstName.lastName@Department.company.com.
+### -Generate an email with the following syntax: firstName.lastName@Department.company.com.
 
-###-Determine the department (i.e. sales, development, accounting). if none, leave blank.
+### -Determine the department (i.e. sales, development, accounting). if none, leave blank.
 
-###-Generate a random String for a password.
+### -Generate a random String for a password.
 
-###-Have set methods to change the passwords, set the mailbox capacity, and define an alternate email address.
+### -Have set methods to change the passwords, set the mailbox capacity, and define an alternate email address.
 
-########@author Joseph Walker
+### -Have methods to display the name, email, and mail box capacity. 
 
-###-Have methods to display the name, email, and mail box capacity. 
+
+###### @author Joseph Walker
+
