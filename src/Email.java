@@ -87,6 +87,7 @@ public class Email {
 		public void setChangePassword(String password) {
 			this.password = password;
 		} 
+	
 	//Out method to SHOW the mailbox capacity
 	
 		public int getMailboxCapacity() {
