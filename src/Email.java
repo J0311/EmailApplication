@@ -58,7 +58,8 @@ public class Email {
 		}
 	
 	//Generate a method for random password
-	
+
+	// Refactor
 	private String randomPassword(int length) {
 		String passwordSet = "ABCDEFGHIJKLMNOPQRSTUVWYXZ1234567890!@#$%^&*()";
 		char [] password = new char [length];
